@@ -7,7 +7,7 @@ package br.com.bytebank.banco.modelo;
  *
  */
 
-public class Cliente {
+public class Cliente{
 
     private String nome;
     private String cpf;
